@@ -1,0 +1,9 @@
+{
+    "config": 
+    {
+        "product_link": "https://rozetka.com.ua/all-tv/c80037/#search_text=%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B7%D1%80",
+        "min_price": 0,
+        "max_price": 20000,
+        "exel_file_name": "televisors.xlsx"
+    }
+}
